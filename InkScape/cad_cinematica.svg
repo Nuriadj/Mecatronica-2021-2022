@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
+   version="1.1"
+   id="svg39957"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="cad_cinematica.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview39959"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="300mm"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-center="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:zoom="0.47393378"
+     inkscape:cx="1248.0646"
+     inkscape:cy="1249.1196"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="259.88606,523.36723"
+       orientation="0,-1"
+       id="guide40159" />
+  </sodipodi:namedview>
+  <defs
+     id="defs39954">
+    <marker
+       style="overflow:visible"
+       id="marker76729"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path76727" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9262" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker69360"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path69358" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9259" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path8430"
+       style="fill:#87cdde;stroke:#000000;stroke-width:0.394391;paint-order:markers stroke fill"
+       d="m 144.76576,489.08792 a 29.802804,29.802804 0 0 0 42.12365,-1.41969 29.802804,29.802804 0 0 0 -1.42005,-42.12327 l 0.0773,-0.0827 -109.372905,-102.24089 -0.0773,0.0827 a 29.802804,29.802804 0 0 0 -42.123297,1.41931 29.802804,29.802804 0 0 0 1.419693,42.12365 z m 13.73208,-14.68999 a 9.6940049,9.6940049 0 0 1 -0.46179,-13.70157 9.6940049,9.6940049 0 0 1 13.70158,-0.46179 9.6940049,9.6940049 0 0 1 0.46179,13.70158 9.6940049,9.6940049 0 0 1 -13.70158,0.46178 z M 49.124932,372.15705 a 9.6940049,9.6940049 0 0 1 -0.462164,-13.70193 9.6940049,9.6940049 0 0 1 13.701958,-0.46143 9.6940049,9.6940049 0 0 1 0.461785,13.70158 9.6940049,9.6940049 0 0 1 -13.701579,0.46178 z" />
+    <path
+       id="path8430-9"
+       style="fill:#aaccff;stroke:#000000;stroke-width:0.394391;paint-order:markers stroke fill"
+       d="m 46.551887,336.72582 a 29.802804,29.802804 0 0 0 -19.156632,37.54252 29.802804,29.802804 0 0 0 37.542352,19.15614 l 0.03492,0.10761 142.417903,-46.18196 -0.0349,-0.10761 a 29.802804,29.802804 0 0 0 19.1568,-37.54203 29.802804,29.802804 0 0 0 -37.54251,-19.15663 z m 6.202752,19.1283 a 9.6940049,9.6940049 0 0 1 12.211466,6.23108 9.6940049,9.6940049 0 0 1 -6.231076,12.21147 9.6940049,9.6940049 0 0 1 -12.211477,-6.23108 9.6940049,9.6940049 0 0 1 6.231087,-12.21147 z M 195.17254,309.67215 a 9.6940049,9.6940049 0 0 1 12.21195,6.23093 9.6940049,9.6940049 0 0 1 -6.23157,12.21165 9.6940049,9.6940049 0 0 1 -12.21148,-6.23111 9.6940049,9.6940049 0 0 1 6.2311,-12.21147 z" />
+    <path
+       id="path8430-9-1"
+       style="fill:#80e5ff;stroke:#000000;stroke-width:0.394391;paint-order:markers stroke fill"
+       d="m 168.37749,317.8825 a 29.802804,29.802804 0 0 0 28.77489,30.79647 29.802804,29.802804 0 0 0 30.79595,-28.7749 l 0.11306,0.004 5.07786,-149.63239 -0.11305,-0.004 a 29.802804,29.802804 0 0 0 -28.77438,-30.79646 29.802804,29.802804 0 0 0 -30.79648,28.77489 z m 20.09728,0.68201 a 9.6940049,9.6940049 0 0 1 10.01717,-9.35963 9.6940049,9.6940049 0 0 1 9.35962,10.01719 9.6940049,9.6940049 0 0 1 -10.01717,9.35962 9.6940049,9.6940049 0 0 1 -9.35962,-10.01718 z m 5.07786,-149.63239 a 9.6940049,9.6940049 0 0 1 10.0172,-9.36013 9.6940049,9.6940049 0 0 1 9.35961,10.0177 9.6940049,9.6940049 0 0 1 -10.0172,9.35962 9.6940049,9.6940049 0 0 1 -9.35961,-10.01719 z" />
+    <path
+       id="path8430-9-1-2"
+       style="fill:#87decd;stroke:#000000;stroke-width:0.394391;paint-order:markers stroke fill"
+       d="m 325.32908,260.90299 a 29.802804,29.802804 0 0 0 39.76303,-13.97565 29.802804,29.802804 0 0 0 -13.97586,-39.76255 l 0.0491,-0.10191 -134.98172,-64.77324 -0.0491,0.10191 a 29.802804,29.802804 0 0 0 -39.76281,13.97518 29.802804,29.802804 0 0 0 13.97564,39.76304 z m 8.69976,-18.12954 a 9.6940049,9.6940049 0 0 1 -4.54588,-12.93374 9.6940049,9.6940049 0 0 1 12.93375,-4.54585 9.6940049,9.6940049 0 0 1 4.54586,12.93373 9.6940049,9.6940049 0 0 1 -12.93373,4.54586 z M 199.04712,178.00021 a 9.6940049,9.6940049 0 0 1 -4.54632,-12.93396 9.6940049,9.6940049 0 0 1 12.93421,-4.54564 9.6940049,9.6940049 0 0 1 4.54585,12.93375 9.6940049,9.6940049 0 0 1 -12.93374,4.54585 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Texto">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.735542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 160.32686,431.63881 h 74.59201"
+       id="path40499" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="238.22987"
+       y="435.0347"
+       id="text45185"><tspan
+         sodipodi:role="line"
+         id="tspan45183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="238.22987"
+         y="435.0347">Eslabón 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 106.1344,266.64136 9.55289,73.68993"
+       id="path69356" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.32959"
+       y="256.5437"
+       id="text73420"><tspan
+         sodipodi:role="line"
+         id="tspan73418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="73.32959"
+         y="256.5437">Eslabón 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker76729);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 211.90229,269.00296 66.63157,47.73617"
+       id="path76725" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="257.7023"
+       y="333.0817"
+       id="text80721"><tspan
+         sodipodi:role="line"
+         id="tspan80719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="257.7023"
+         y="333.0817">Eslabón 3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker76729);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 303.0198,198.17949 46.85821,-32.75332"
+       id="path83378" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="326.24759"
+       y="162.81955"
+       id="text88596"><tspan
+         sodipodi:role="line"
+         id="tspan88594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="326.24759"
+         y="162.81955">Eslabón 4</tspan></text>
+  </g>
+</svg>
